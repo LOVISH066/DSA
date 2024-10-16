@@ -6,6 +6,7 @@
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/LOVISH066/DSA/tree/master/0088-merge-sorted-array) |
 | [0898-transpose-matrix](https://github.com/LOVISH066/DSA/tree/master/0898-transpose-matrix) |
 | [1019-squares-of-a-sorted-array](https://github.com/LOVISH066/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1677-matrix-diagonal-sum](https://github.com/LOVISH066/DSA/tree/master/1677-matrix-diagonal-sum) |
@@ -24,9 +25,11 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/LOVISH066/DSA/tree/master/0088-merge-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/LOVISH066/DSA/tree/master/1019-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/LOVISH066/DSA/tree/master/0088-merge-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/LOVISH066/DSA/tree/master/1019-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
