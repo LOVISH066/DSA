@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/LOVISH066/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/LOVISH066/DSA/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/LOVISH066/DSA/tree/master/0088-merge-sorted-array) |
 | [0898-transpose-matrix](https://github.com/LOVISH066/DSA/tree/master/0898-transpose-matrix) |
 | [1019-squares-of-a-sorted-array](https://github.com/LOVISH066/DSA/tree/master/1019-squares-of-a-sorted-array) |
@@ -27,6 +28,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/LOVISH066/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/LOVISH066/DSA/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/LOVISH066/DSA/tree/master/0088-merge-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/LOVISH066/DSA/tree/master/1019-squares-of-a-sorted-array) |
 ## Sorting
