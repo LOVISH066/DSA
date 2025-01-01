@@ -31,6 +31,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/LOVISH066/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/LOVISH066/DSA/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/LOVISH066/DSA/tree/master/0088-merge-sorted-array) |
+| [0647-palindromic-substrings](https://github.com/LOVISH066/DSA/tree/master/0647-palindromic-substrings) |
 | [1019-squares-of-a-sorted-array](https://github.com/LOVISH066/DSA/tree/master/1019-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -41,8 +42,10 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/LOVISH066/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0647-palindromic-substrings](https://github.com/LOVISH066/DSA/tree/master/0647-palindromic-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/LOVISH066/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0647-palindromic-substrings](https://github.com/LOVISH066/DSA/tree/master/0647-palindromic-substrings) |
 <!---LeetCode Topics End-->
