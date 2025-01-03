@@ -14,6 +14,7 @@
 | [1677-matrix-diagonal-sum](https://github.com/LOVISH066/DSA/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/LOVISH066/DSA/tree/master/1791-richest-customer-wealth) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/LOVISH066/DSA/tree/master/2876-number-of-employees-who-met-the-target) |
+| [3194-find-words-containing-character](https://github.com/LOVISH066/DSA/tree/master/3194-find-words-containing-character) |
 ## Matrix
 |  |
 | ------- |
@@ -43,6 +44,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/LOVISH066/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0647-palindromic-substrings](https://github.com/LOVISH066/DSA/tree/master/0647-palindromic-substrings) |
+| [3194-find-words-containing-character](https://github.com/LOVISH066/DSA/tree/master/3194-find-words-containing-character) |
 ## Dynamic Programming
 |  |
 | ------- |
